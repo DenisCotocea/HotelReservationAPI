@@ -1,0 +1,1 @@
+This repository contains the source code for a hotel reservation API built using .NET Framework and C#. The API allows users to manage hotel rooms, amenities, and additional services. It supports CRUD operations for rooms, amenities, and services, and provides endpoints for clients to make reservations for one or more rooms within a specified time interval.
